@@ -16,8 +16,13 @@ if i fork your repo, that means imma fix some issues I'm having with your repo. 
 
 # PC Spec
 Motherboard: PRO B550M-P GEN3 
+
 CPU: AMD Ryzen 5 5500 3.60GHz
+
 GPU: Nvidia GeForce GTX 1650
-Storage: KINGSTON SNV2S500G
+
+Storage: KINGSTON SNV2S500G 500gb
+
 Linux Distro: Linux Mint 20.3
+
 RAM: 16gb 3200MHz
