@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I know how to program in Shell Script
+Programming in C and Shell Script(i don't like C++ but i'll learn it soon) 
 
 I'm just a noob dev :p
 
@@ -12,11 +12,12 @@ if i fork your repo, that means imma fix some issues I'm having with your repo. 
 * Toni500github (on LinuxMint/PC)
 * Toni500git (on Termux/Android)
  
-# Games I play (add me on [Steam](https://steamcommunity.com/profiles/76561199117772691) pls)
-* Team Fortress 2
-* Counter-Strike:Source
-* Garry's mod (having problems running on linux)
-* Minecraft, server [mc.mineland.net](http://mineland.net) (toni500)
+# Add me on [Steam](https://steamcommunity.com/profiles/76561199117772691) pls
 
 # PC Spec
-potato laptop from 14 years ago, but imma buy a new one soon
+Motherboard: PRO B550M-P GEN3 
+CPU: AMD Ryzen 5 5500 3.60GHz
+GPU: Nvidia GeForce GTX 1650
+Storage: KINGSTON SNV2S500G
+Linux Distro: Linux Mint 20.3
+RAM: 16gb 3200MHz
