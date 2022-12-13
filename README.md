@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programming in C and Shell Script(i don't like C++ but i'll learn it soon) 
+Programming in C and Shell Script (i don't like C++ but i'll learn it soon) 
 
 I'm just a noob dev :p
 
