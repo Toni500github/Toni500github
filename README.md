@@ -7,9 +7,9 @@ I'm just a noob dev :p
 if i fork your repo, that means imma fix some issues I'm having with your repo. And so please accept my PR because
 #### I sign with GPG my commits
 
-# My official Git names when I commit trough command line (they all have the same email)
-* Toni500github (on LinuxMint/PC)
-* Toni500git (on Termux/Android)
+## My official Git names when I commit trough command line (they all have the same email)
+* Toni500github (on PC)
+* ~~Toni500git (on Termux/Android)~~ lost termux and the gpg keys of it
  
 # Add me on [Steam](https://steamcommunity.com/profiles/76561199117772691) pls
 
@@ -22,7 +22,7 @@ GPU: Nvidia GeForce GTX 1650
 
 Storage: KINGSTON SNV2S500G 500gb
 
-Linux Distro: Linux Mint 20.3
+Linux Distro: ~~Linux Mint 20.3~~ EndeavourOS
 
 RAM: 16gb 3200MHz
 
