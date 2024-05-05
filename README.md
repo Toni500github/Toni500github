@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Programming in C and Shell Script (i don't like C++ but i'll learn it soon) 
+Programming in C/C++ and Shell Script. I'm just a noob dev :p\
+If i fork your repo, that means imma fix some issues I'm having with your repo (most probably)
 
-I'm just a noob dev :p
-
-if i fork your repo, that means imma fix some issues I'm having with your repo. And so please accept my PR because
-#### I sign with GPG my commits
+## Projects I'm involved
+ - [TabAUR](https://github.com/BurntRanch/TabAUR)
+ - [customfetch](https://github.com/Toni500github/customfetch)
 
 ## My official Git names when I commit trough command line (they all have the same email)
 * Toni500github (on PC)
