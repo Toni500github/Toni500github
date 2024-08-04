@@ -26,4 +26,4 @@ Linux Distro: ~~Linux Mint 20.3~~ EndeavourOS
 
 RAM: 16gb 3200MHz
 
-[![Toni500git's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toni500github)](https://github.com/Toni500github/musical_donut)
+[![Toni500git's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toni500github)](https://github.com/Toni500github/customfetch)
