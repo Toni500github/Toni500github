@@ -15,6 +15,7 @@ If i fork your repo, that means imma fix some issues I'm having with your repo (
 [link](https://steamcommunity.com/profiles/76561199117772691)
 
 # PC Spec
+Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would really appreciate it :)
 ![screenshot.png](https://github.com/Toni500github/customfetch/raw/main/screenshot.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toni500github&layout=compact)
