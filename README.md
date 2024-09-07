@@ -8,22 +8,13 @@ If i fork your repo, that means imma fix some issues I'm having with your repo (
  - [customfetch](https://github.com/Toni500github/customfetch)
 
 ## My official Git names when I commit trough command line (they all have the same email)
-* Toni500github (on PC)
+* Toni500git
 * ~~Toni500git (on Termux/Android)~~ lost termux and the gpg keys of it
  
-# Add me on [Steam](https://steamcommunity.com/profiles/76561199117772691) pls
+# my steam
+[link](https://steamcommunity.com/profiles/76561199117772691)
 
 # PC Spec
-Motherboard: PRO B550M-P GEN3 
-
-CPU: AMD Ryzen 5 5500 3.60GHz
-
-GPU: Nvidia GeForce GTX 1650
-
-Storage: KINGSTON SNV2S500G 500gb
-
-Linux Distro: ~~Linux Mint 20.3~~ EndeavourOS
-
-RAM: 16gb 3200MHz
+![screenshot.png](https://github.com/Toni500github/customfetch/raw/main/screenshot.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toni500github&layout=compact)
