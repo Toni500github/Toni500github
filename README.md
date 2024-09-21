@@ -10,9 +10,6 @@ If i fork your repo, that means imma fix some issues I'm having with your repo (
 ## My official Git names when I commit trough command line (they all have the same email)
 * Toni500git
 * ~~Toni500git (on Termux/Android)~~ lost termux and the gpg keys of it
- 
-# my steam
-[link](https://steamcommunity.com/profiles/76561199117772691)
 
 # PC Spec
 Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would really appreciate it :)
