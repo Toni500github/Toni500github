@@ -16,3 +16,4 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 ![screenshot.png](https://github.com/Toni500github/customfetch/raw/main/screenshot.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toni500github&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=cpp,arch,linux)](https://skillicons.dev)
