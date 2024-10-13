@@ -20,4 +20,13 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toni500github&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 September 2024 - To: 12 October 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
