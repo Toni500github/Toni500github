@@ -18,3 +18,6 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 # My skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,arch,linux&theme=light)](https://skillicons.dev)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toni500github&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
