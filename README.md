@@ -22,11 +22,11 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 12 October 2024
+From: 20 September 2024 - To: 13 October 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 21 mins
 
-No activity tracked
+C++   1 hr 21 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
