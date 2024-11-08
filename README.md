@@ -22,12 +22,13 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 05 November 2024
+From: 20 September 2024 - To: 06 November 2024
 
-Total Time: 37 hrs 55 mins
+Total Time: 37 hrs 57 mins
 
-C++   37 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.12 %
-C     42 mins         -------------------------   01.88 %
+C++    37 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.04 %
+C      42 mins         -------------------------   01.88 %
+TOML   2 mins          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
