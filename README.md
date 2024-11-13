@@ -22,7 +22,7 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 10 November 2024
+From: 20 September 2024 - To: 11 November 2024
 
 Total Time: 43 hrs 21 mins
 
