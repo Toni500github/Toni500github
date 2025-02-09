@@ -22,16 +22,18 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 05 February 2025
+Total Time: 53 hrs 15 mins
 
-Total Time: 57 hrs 32 mins
-
-C++      53 hrs 56 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.72 %
-Kotlin   2 hrs 3 mins    >------------------------   03.58 %
-C        1 hr 13 mins    >------------------------   02.13 %
-CMake    16 mins         -------------------------   00.49 %
-TOML     2 mins          -------------------------   00.06 %
-Other    0 secs          -------------------------   00.02 %
+C++              34 hrs 21 mins  ████████████████░░░░░░░░░   64.50 %
+Kotlin           10 hrs 20 mins  █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+XML              6 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Rust             0 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+C                0 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+ObjectiveC       0 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+unknown          0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JAVA             0 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Text             0 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SVG              0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
