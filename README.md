@@ -22,18 +22,18 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 53 hrs 15 mins
+Total Time: 56 hrs 5 mins
 
-C++              34 hrs 21 mins  ████████████████░░░░░░░░░   64.50 %
-Kotlin           10 hrs 20 mins  █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-XML              6 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Rust             0 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-C                0 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-ObjectiveC       0 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-unknown          0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JAVA             0 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Text             0 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-SVG              0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+C++              36 hrs 27 mins  ████████████████▒░░░░░░░░   65.00 %
+Kotlin           10 hrs 20 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+XML              6 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+C                1 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Rust             0 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+ObjectiveC       0 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+unknown          0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JAVA             0 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Text             0 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+SVG              0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
