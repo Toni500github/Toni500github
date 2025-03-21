@@ -24,7 +24,7 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 ```txt
 Total Time: 117 hrs 43 mins
 
-C++          80 hrs 12 mins  █████████████████░░░░░░░░   68.14 %
+C++          80 hrs 12 mins  █████████████████░░░░░░░░   68.13 %
 Kotlin       20 hrs 44 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
 XML          10 hrs 46 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
 C            3 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
