@@ -18,7 +18,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
-          API_BASE_URL: https://waka.hackclub.com/api/compat/wakatime # optional
+          API_BASE_URL: https://hackatime.hackclub.com/api/compat/wakatime # optional
           ### content
           SHOW_TITLE: false # optional
           #BLOCKS: -> # optional
