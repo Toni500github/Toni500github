@@ -14,11 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: Toni500github/waka-readme@master # do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          SLACK_USER_ID: ${{ secrets.SLACK_USER_ID }} # required
           ### meta
-          API_BASE_URL: https://hackatime.hackclub.com/api/compat/wakatime # optional
+          #API_BASE_URL: https://hackatime.hackclub.com/api # optional
           ### content
           SHOW_TITLE: false # optional
           #BLOCKS: -> # optional
