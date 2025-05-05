@@ -16,6 +16,7 @@ jobs:
         # this action name
       - uses: Toni500github/waka-readme@master # do NOT replace with anything else
         with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SLACK_USER_ID: ${{ secrets.SLACK_USER_ID }} # required
           ### meta
           #API_BASE_URL: https://hackatime.hackclub.com/api # optional
