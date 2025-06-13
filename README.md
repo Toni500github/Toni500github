@@ -6,6 +6,7 @@ If i fork your repo, that means imma fix some issues I'm having with your repo (
 ## Projects I'm involved
  - [TabAUR](https://github.com/BurntRanch/TabAUR)
  - [customfetch](https://github.com/Toni500github/customfetch)
+ - [customfetch-android-app](https://github.com/Toni500github/customfetch-android-app)
 
 ## My official Git names when I commit trough command line (they all have the same email)
 * Toni500git
