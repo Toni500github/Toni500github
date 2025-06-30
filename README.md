@@ -23,16 +23,16 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 279 hrs 36 mins
+Total Time: 283 hrs 29 mins
 
-C++               159 hrs 31 mins ██████████████▒░░░░░░░░░░   57.05 %
-Kotlin            70 hrs 1 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
-XML               19 hrs 11 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-C                 12 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Rust              3 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Java              2 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JAVA              2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Bash              1 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+C++               162 hrs 59 mins ██████████████▒░░░░░░░░░░   57.49 %
+Kotlin            70 hrs 1 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+XML               19 hrs 11 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+C                 12 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Rust              3 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Java              2 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JAVA              2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Bash              1 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Makefile          1 hrs 38 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ObjectiveC        1 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
