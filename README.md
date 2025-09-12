@@ -23,10 +23,10 @@ Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 397 hrs 20 mins
+Total Time: 397 hrs 34 mins
 
-C++                   260 hrs 5 mins  ████████████████▒░░░░░░░░   65.46 %
-Kotlin                71 hrs 44 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+C++                   260 hrs 19 mins ████████████████▒░░░░░░░░   65.48 %
+Kotlin                71 hrs 44 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
 C                     22 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 XML                   19 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 Rust                  3 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
