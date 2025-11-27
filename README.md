@@ -14,7 +14,7 @@ If i fork your repo, that means imma fix some issues I'm having with your repo (
 
 # PC Spec
 Check out [customfetch](https://github.com/Toni500github/customfetch) btw, would really appreciate it :)
-![screenshot.png](https://github.com/Toni500github/customfetch/raw/main/screenshot.png)
+![screenshot.png](https://github.com/Toni500github/customfetch/raw/main/screenshots/demo.png)
 
 # My skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,bash,kotlin,androidstudio,arch,linux&theme=light)](https://skillicons.dev)\
