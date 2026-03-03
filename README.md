@@ -4,9 +4,11 @@ Programming in C/C++ and Kotlin. I'm just a noob dev :p\
 If i fork your repo, that means imma fix some issues I'm having with your repo (most probably)
 
 ## Projects I'm involved
- - [TabAUR](https://github.com/BurntRanch/TabAUR)
+<!-- - [TabAUR](https://github.com/BurntRanch/TabAUR) -->
  - [customfetch](https://github.com/Toni500github/customfetch)
  - [customfetch-android-app](https://github.com/Toni500github/customfetch-android-app)
+- [oshot](https://github.com/Toni500github/oshot)
+- [cliboy](https://github.com/Toni500github/cliboy)
 
 ## My official Git names when I commit trough command line (they all have the same email)
 * Toni500git
